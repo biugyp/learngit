@@ -5,4 +5,5 @@ Git has a mutable index called stage.
 第四次修改
 第五次修改
 Creating a new branch is quick and simple
+use --no--ff
 
